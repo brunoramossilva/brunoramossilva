@@ -1,7 +1,6 @@
-<h1 align="center">Olá, eu sou o Bruno! 👋</h1>
+<h1 align="center">Olá, eu sou o Bruno!</h1>
 
 <p align="center">
-💻 <strong>Desenvolvedor Back-end</strong><br>
 🔗 <a href="https://www.cin.ufpe.br/~bgprs/" target="_blank"><strong>Portfólio</strong></a>
 </p>
 
