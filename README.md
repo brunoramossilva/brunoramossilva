@@ -1,45 +1,52 @@
-<h1 align="center">Olá, eu sou Bruno!</h1>
+<h1 align="center">Bruno Ramos</h1>
 
 <p align="center">
-🔗 <a href="https://www.cin.ufpe.br/~bgprs/" target="_blank"><strong>Portfólio</strong></a>
+Desenvolvedor de Software • Sistemas de Informação (UFPE)
 </p>
-
----
-
-<h2 align="center">💻 Linguagens e Ferramentas</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-</p>
-
----
-
-<h2 align="center">📈 Estatísticas do GitHub</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brunoramossilva&show_icons=true&theme=dracula" alt="Estatísticas do GitHub"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoramossilva&layout=compact&theme=dracula" alt="Linguagens mais usadas"/>
-</p>
-
----
-
-<h2 align="center">📫 Como me Encontrar</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/bruno-ramos-backend/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.instagram.com/brunogpramos/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
 ---
 
+## Stack Principal
+
 <p align="center">
-  <strong>Obrigado por visitar meu perfil!</strong><br>
-  Fique à vontade para entrar em contato!
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,nextjs,postgres,docker,git" />
+</p>
+
+---
+
+## Tecnologias
+
+### Linguagens
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,python,c,cpp" />
+</p>
+
+### Front-end
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+</p>
+
+### Back-end & Dados
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,postgres,redis,docker" />
+</p>
+
+---
+
+## Atualmente
+
+- Desenvolvedor de Software no **CITi UFPE**;
+- Experiência com aplicações web e mobile;
+- Foco em qualidade técnica, boas práticas e engenharia de software orientada a produto.
+
+---
+
+<p align="center">
+  <em>Interesse em problemas reais, código bem estruturado e decisões técnicas conscientes.</em>
 </p>
